@@ -1,6 +1,6 @@
 ## Olá, meu nome é Breno! 👋
 
-Backend Software Engineer | Java & Go Specialist | Distributed Systems Construindo sistemas de alta disponibilidade e performance
+Backend Software Engineer | Java & Go Specialist | Distributed Systems Construindo sistemas de alta disponibilidade e performance.
 
 🎯 Sobre Mim
 
@@ -9,6 +9,7 @@ Sou estudante de Ciência da Computação (3º Semestre) focado em Engenharia de
 Atualmente, dedico-me ao estudo profundo de sistemas distribuídos, concorrência e integridade de dados (ACID), visando resolver problemas complexos em infraestruturas bancárias e fintechs de escala global.
 
 Objetivo Atual: Estágio ou posição Junior como Backend Developer (Java/Spring Boot), focado em desenvolvimento de APIs robustas e microsserviços.
+
 🛠️ Tech Stack & Infrastructure
 🚀 Linguagens & Core
 
