@@ -11,7 +11,7 @@ Objetivo Atual: Estágio ou posição Junior como Backend Developer (Java/Spring
 🛠️ Tech Stack & Infrastructure
 🚀 Linguagens & Core
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"/></code> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code> <code><img  height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/></code> <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
 ⚙️ Frameworks & Backend
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot"/></code> <code><img height="32" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/></code> <code><img height="32" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/></code>
@@ -36,9 +36,6 @@ Objetivo Atual: Estágio ou posição Junior como Backend Developer (Java/Spring
 
     Performance: Desenvolvimento de serviços de baixa latência com Go e futuramente Rust.
 
-📈 GitHub Analytics
-
-<div align="center"> <a href="https://github.com/Breno-Dev-Eng"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Dev-Eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </a> </div>
 📫 Vamos Conectar!
 
 <a href="https://www.linkedin.com/in/breno-caixeta-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:breno24.caixeta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
